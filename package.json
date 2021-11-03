@@ -6,6 +6,6 @@
     "express": "^4.17.1",
     "express-formidable": "^1.2.0",
     "mongoose": "^5.8.10",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   }
 }
